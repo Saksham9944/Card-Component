@@ -1,0 +1,7 @@
+main photo: file: ///C:/Users/Dell/Downloads/order-summary-component-main/images/illustration-hero.svg
+
+music: file: ///C:/Users/Dell/Downloads/order-summary-component-main/images/icon-music.svg
+
+background: file: ///C:/Users/Dell/Downloads/order-summary-component-main/images/pattern-background-desktop.svg
+
+bg-mobile: file: ///C:/Users/Dell/Downloads/order-summary-component-main/images/pattern-background-mobile.svg
